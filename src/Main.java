@@ -1,7 +1,7 @@
-import Solutions8kyu.EvenOrOdd;
+import Solutions7kyu.VowelCount.VowelCount;
 
 public class Main {
     public static void main(String[] args) {
-        EvenOrOdd.testEvenOrOdd();
+        VowelCount.testVowelCount();
     }
 }
